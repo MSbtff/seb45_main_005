@@ -41,7 +41,6 @@ const Kakaobt = () => {
             },
           })
           .then((resp) => {
-            console.log(resp.data);
             dispatch(setLoginState(true));
             dispatch(setNickname(resp.data.nickname));
             dispatch(setMemberID(res.headers.memberid));
