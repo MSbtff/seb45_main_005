@@ -1,8 +1,6 @@
-
 ## **Team. 🎶 Sound Oasis**
 
 Sound Oasis 는 날씨와 더불어 유저가 처한 상황 (운동, 기분)에 따라 음악 추천을 하며, 유저들끼리 자신의 플레이리스트, 애청곡을 공유하는 웹 싸이트입니다.
-
 
 ### 🖥️ 배포 : **[Music Forecast]()**
 
@@ -10,7 +8,7 @@ Sound Oasis 는 날씨와 더불어 유저가 처한 상황 (운동, 기분)에 
 
 ## 📝 자료
 
-#### ✔️  **[Figma](https://www.figma.com/file/RXDA1Zvfl7sjb7owNxb7VA/Sound-Oasis?type=design&node-id=0-1&mode=design&t=WUWxwmaabthRoGLn-0)**
+#### ✔️ **[Figma](https://www.figma.com/file/RXDA1Zvfl7sjb7owNxb7VA/Sound-Oasis?type=design&node-id=0-1&mode=design&t=WUWxwmaabthRoGLn-0)**
 
 #### ✔️ **[요구사항명세서](https://docs.google.com/spreadsheets/d/1tMNL7fW6n4lfJNCL9hmjVsViEf8JIWUlEQq5WvfVh1Q/edit#gid=0)**
 
@@ -25,45 +23,51 @@ Sound Oasis 는 날씨와 더불어 유저가 처한 상황 (운동, 기분)에 
 ## 👥 팀원 소개
 
 ### 😀 프론트
-| <center>이인우</center> | <center>진종환</center> |<center>김진현</center> |
-| ---- | ---- | ---- | 
+
+| <center>이인우</center>                                                                                                                                                                                                                                    | <center>진종환</center>                                                                                                                                                                                                                                    | <center>김진현</center>                                                                                                                                                                                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <center> <img width="130px" height="130px" src =  "https://postfiles.pstatic.net/MjAyMzA4MjRfMjY4/MDAxNjkyODg3NTcwNzM1.dYqxNglixkgWam9ypMWcbaWcw9j5Ag0L6E1ns3uQqHAg.lT9TYlRaRFdvWNg8ZSiPjFRl0XTplHQ9Dg6zYVjQcugg.JPEG.dkdnmju/66.jpg?type=w773"> </center> | <center> <img width="130px" height="130px" src =  "https://postfiles.pstatic.net/MjAyMzA4MjRfMjE2/MDAxNjkyODg3NTcwNjg0.uBAF7ILjWC_T26Y9MDEiK4zUi8HPXIocDAMHwG_RkZ4g.h8vY9wIRQVGkAddB-wXp0NoU1FTQgTwS_8gljwpLgVAg.JPEG.dkdnmju/11.jpg?type=w773"> </center> | <center> <img width="130px" height="130px" src =  "https://postfiles.pstatic.net/MjAyMzA4MjRfMTg0/MDAxNjkyODg3NTcwNzEx.DfYFxVeQ2fkxNp3tUSrlxN2YFved1v9un7MHbeSO4AUg.AgGYctYw4QcDft626zRq7FJ8x72cnA37RJXMUbpgEmcg.JPEG.dkdnmju/55.jpg?type=w773"> </center> |
-| <center>[@dpftlel21](https://github.com/dpftlel21) </center> | <center>[@MSbtff](https://github.com/MSbtff)</center> |<center><small>[@RunnerJinHyeon](https://github.com/RunnerJinHyeon)</small> </center> | 
-| <center>팀장</center> | <center>FE 팀원</center> |<center>FE 팀원</center> |
-| ㅎㅇ | ㅎㅇ |ㅎㅇ |
+| <center>[@dpftlel21](https://github.com/dpftlel21) </center>                                                                                                                                                                                               | <center>[@MSbtff](https://github.com/MSbtff)</center>                                                                                                                                                                                                      | <center><small>[@RunnerJinHyeon](https://github.com/RunnerJinHyeon)</small> </center>                                                                                                                                                                      |
+| <center>팀장</center>                                                                                                                                                                                                                                      | <center>FE 팀원</center>                                                                                                                                                                                                                                   | <center>FE 팀원</center>                                                                                                                                                                                                                                   |
+| ㅎㅇ                                                                                                                                                                                                                                                       | ㅎㅇ                                                                                                                                                                                                                                                       | ㅎㅇ                                                                                                                                                                                                                                                       |
 
 ### 😀 백엔드
-|<center>전수은</center> | <center>나수현</center> |<center>임석현</center> |
-| ---- | ---- | ---- |
-|<center> <img width="130px" height="130px" src =  "https://postfiles.pstatic.net/MjAyMzA4MjRfNTMg/MDAxNjkyODg3NTcwNjk5.kwVtZ_IN_3TR26bPNrePcrCZxEqPG1JmsQ7jgVaiOFQg.moYYI6YiJPHn2OxA9ix2hVrN9WK5t4Pzk-AzjulyO0Ig.JPEG.dkdnmju/33.jpg?type=w773"> </center> | <center> <img width="130px" height="130px" src =  "https://postfiles.pstatic.net/MjAyMzA4MjRfMjc1/MDAxNjkyODg3NTcwNjE2.lV76-4SwWJNn3PxKOd8_PAJuTQmKuWYx1vzz5prRknUg.IJzpFSNx96RbTwFGW2A1sUywlHN0S24uUjSebm5-r_sg.JPEG.dkdnmju/44.jpg?type=w773"> </center> | <center> <img width="130px" height="130px" src =  "https://postfiles.pstatic.net/MjAyMzA4MjRfODIg/MDAxNjkyODg3NTcwNzAz.LeEzdgRNx_h28yFqfn9ro0U4PV-ajKW3yIQat-SHv8Eg.KumfmtSpBfebgJQOOqUjpZXvF3jYjNzbUgisEJH8Zhcg.JPEG.dkdnmju/22.jpg?type=w773"> </center> | 
-|<center> [@jsue98](https://github.com/jsue98)</center> | <center>[@occcasion](https://github.com/occcasion)</center> |<center>[@ssklim](https://github.com/ssklim)</center> | 
-| <center>BE 팀장(부팀장)</center> | <center>BE 팀원</center> |<center>BE 팀원</center> |
-|ㅎㅇ | ㅎㅇ |ㅎㅇ |
 
+| <center>전수은</center>                                                                                                                                                                                                                                    | <center>나수현</center>                                                                                                                                                                                                                                    | <center>임석현</center>                                                                                                                                                                                                                                    |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <center> <img width="130px" height="130px" src =  "https://postfiles.pstatic.net/MjAyMzA4MjRfNTMg/MDAxNjkyODg3NTcwNjk5.kwVtZ_IN_3TR26bPNrePcrCZxEqPG1JmsQ7jgVaiOFQg.moYYI6YiJPHn2OxA9ix2hVrN9WK5t4Pzk-AzjulyO0Ig.JPEG.dkdnmju/33.jpg?type=w773"> </center> | <center> <img width="130px" height="130px" src =  "https://postfiles.pstatic.net/MjAyMzA4MjRfMjc1/MDAxNjkyODg3NTcwNjE2.lV76-4SwWJNn3PxKOd8_PAJuTQmKuWYx1vzz5prRknUg.IJzpFSNx96RbTwFGW2A1sUywlHN0S24uUjSebm5-r_sg.JPEG.dkdnmju/44.jpg?type=w773"> </center> | <center> <img width="130px" height="130px" src =  "https://postfiles.pstatic.net/MjAyMzA4MjRfODIg/MDAxNjkyODg3NTcwNzAz.LeEzdgRNx_h28yFqfn9ro0U4PV-ajKW3yIQat-SHv8Eg.KumfmtSpBfebgJQOOqUjpZXvF3jYjNzbUgisEJH8Zhcg.JPEG.dkdnmju/22.jpg?type=w773"> </center> |
+| <center> [@jsue98](https://github.com/jsue98)</center>                                                                                                                                                                                                     | <center>[@occcasion](https://github.com/occcasion)</center>                                                                                                                                                                                                | <center>[@ssklim](https://github.com/ssklim)</center>                                                                                                                                                                                                      |
+| <center>BE 팀장(부팀장)</center>                                                                                                                                                                                                                           | <center>BE 팀원</center>                                                                                                                                                                                                                                   | <center>BE 팀원</center>                                                                                                                                                                                                                                   |
+| ㅎㅇ                                                                                                                                                                                                                                                       | ㅎㅇ                                                                                                                                                                                                                                                       | ㅎㅇ                                                                                                                                                                                                                                                       |
 
 <br>
 
 ---
 
 ## 🖥️ 화면구성
+
 <img src = ""> // gif 파일 추가 예정
 
 <br>
 
 ---
 
-## ✔️  주요 기능
+## ✔️ 주요 기능
+
 ### ✨ 기능1
-- 
-- 
+
+-
+-
 
 ### ✨ 기능2
-- 
-- 
+
+-
+-
 
 ### ✨ 기능3
-- 
-- 
+
+-
+-
 
 ....
 <br>
@@ -71,17 +75,18 @@ Sound Oasis 는 날씨와 더불어 유저가 처한 상황 (운동, 기분)에 
 ---
 
 ## **🖥️ Stack**
+
 ### **✔️ 프론트엔드**
 
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="21"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="21"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="21">  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white"/>  
- 
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="21"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="21"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="21"> <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white"/>
+
 ### **✔️ 백엔드**
 
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white" height="22"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" height="21"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="21">
 
 ### **✔️ 공통**
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" height="21"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" height="21">
 
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" height="21"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" height="21">
 
 ---
 
@@ -106,34 +111,30 @@ Sound Oasis 는 날씨와 더불어 유저가 처한 상황 (운동, 기분)에 
 
 - `[본문]: 변경 내용 (옵션)`
 
-
 ### 2. 타입 및 Emoji
 
-| 타입| emoji | 코드 | 설명 |
-| --- | --- | --- | --- |
-| feat| ✨ | `:sparkles:` | 새로운 기능 추가  |
-| fix| 🐛 | `:bug:` | 버그 수정   |
-| design| 📱 | `:iphone:` | 사용자 UI 디자인 변경   |
-| style| 🎨 | `:art:` | 코드 포맷 변경, 세미 콜론 누락, 코드 수정 없음    |
-| comment| 💡 | `:bulb:` | 주석 추가 및 변경   |
-| docs| ♻️ | `:recycle:` | 프로덕션 코드 리팩토링   |
-| refactor| 📝 | `:memo:` | 문서 수정   |
-| test | ✅ | `:white_check_mark:` | 테스트 추가 또는 리팩토링   |
-| rename | 🚚 | `:truck:` | 파일이나 폴더명 변경, 이동 작업만    |
-| remove| ➖ | `:heavy_minus_sign:` | 파일 삭제 작업만    |
-| !BREAKING CHANGE | 👽️ | `:alien:` | 커다란 API 변경   |
-| !HOTFIX | 🔥 | `:fire:` | 급하게 치명적인 버그 수정   |
-| chore | 🏗️ | `:building_construction:` | 빌드 테스트 업데이트, 패키지 매니저를 설정하는 경우(프로덕션 코드 변경 X)   |
-
+| 타입             | emoji | 코드                      | 설명                                                                      |
+| ---------------- | ----- | ------------------------- | ------------------------------------------------------------------------- |
+| feat             | ✨    | `:sparkles:`              | 새로운 기능 추가                                                          |
+| fix              | 🐛    | `:bug:`                   | 버그 수정                                                                 |
+| design           | 📱    | `:iphone:`                | 사용자 UI 디자인 변경                                                     |
+| style            | 🎨    | `:art:`                   | 코드 포맷 변경, 세미 콜론 누락, 코드 수정 없음                            |
+| comment          | 💡    | `:bulb:`                  | 주석 추가 및 변경                                                         |
+| docs             | ♻️    | `:recycle:`               | 프로덕션 코드 리팩토링                                                    |
+| refactor         | 📝    | `:memo:`                  | 문서 수정                                                                 |
+| test             | ✅    | `:white_check_mark:`      | 테스트 추가 또는 리팩토링                                                 |
+| rename           | 🚚    | `:truck:`                 | 파일이나 폴더명 변경, 이동 작업만                                         |
+| remove           | ➖    | `:heavy_minus_sign:`      | 파일 삭제 작업만                                                          |
+| !BREAKING CHANGE | 👽️   | `:alien:`                 | 커다란 API 변경                                                           |
+| !HOTFIX          | 🔥    | `:fire:`                  | 급하게 치명적인 버그 수정                                                 |
+| chore            | 🏗️    | `:building_construction:` | 빌드 테스트 업데이트, 패키지 매니저를 설정하는 경우(프로덕션 코드 변경 X) |
 
 ### 커밋 예시
 
 ✨ feat: 검색 기능 추가 #1(이슈 번호 작성)
 
 - 변경 사항 1
-  
 - 변경 사항 2 // 본문은 필요에 따라 작성
-  
 
 ### 주의사항
 
@@ -153,19 +154,19 @@ Sound Oasis 는 날씨와 더불어 유저가 처한 상황 (운동, 기분)에 
 
 프로젝트의 팀원들은 아래와 같은 Git 브랜치명 규칙을 따라 브랜치를 관리합니다. 이 규칙은 팀원들이 브랜치를 일관성 있게 생성하고 관리하여 협업을 원할하게 하도록 도와줍니다.
 
-### 2. 기본 브랜치 
+### 2. 기본 브랜치
 
 - 메인 브랜치 : 'main'
 
 - 개발 브랜치 : 'dev'
 
-### 3. 개발 브랜치 
+### 3. 개발 브랜치
 
 - BE 개발 브랜치 : 'beDev'
 
 - FE 개발 브랜치 : 'feDev'
 
-### 4. 기능 브랜치 
+### 4. 기능 브랜치
 
 - BE 기능 브랜치 : 'be/[타입]/[기능 이름]/[#이슈번호]'
 
@@ -175,10 +176,9 @@ Sound Oasis 는 날씨와 더불어 유저가 처한 상황 (운동, 기분)에 
 
 -예시 : 'fe/feat/login/#1'
 
-
 <br>
 <br>
 
 ---
 
-**개발기간 : 2023.08.24 ~**
+**개발기간 : 2023.08.24 ~ ing**
