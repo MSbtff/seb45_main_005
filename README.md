@@ -2,7 +2,13 @@
 
 Sound Oasis 는 날씨와 더불어 유저가 처한 상황 (운동, 기분)에 따라 음악 추천을 하며, 유저들끼리 자신의 플레이리스트, 애청곡을 공유하는 웹 싸이트입니다.
 
-### 🖥️ 배포 : **[Music Forecast]()**
+### 🖥️ 배포 및 시연 영상
+
+✔️ **[배포 싸이트](http://musicforecast.s3-website.ap-northeast-2.amazonaws.com/)**
+
+✔️ **[서비스 메뉴얼](https://delightful-garage-44a.notion.site/Sound-Oasis-0e08af41c6604161936eecb6cd3b2399)**
+
+✔️ **[시연 영상](https://www.youtube.com/watch?v=bZFvkko9CmU)**
 
 ---
 
@@ -29,7 +35,7 @@ Sound Oasis 는 날씨와 더불어 유저가 처한 상황 (운동, 기분)에 
 | <center> <img width="130px" height="130px" src =  "https://postfiles.pstatic.net/MjAyMzA4MjRfMjY4/MDAxNjkyODg3NTcwNzM1.dYqxNglixkgWam9ypMWcbaWcw9j5Ag0L6E1ns3uQqHAg.lT9TYlRaRFdvWNg8ZSiPjFRl0XTplHQ9Dg6zYVjQcugg.JPEG.dkdnmju/66.jpg?type=w773"> </center> | <center> <img width="130px" height="130px" src =  "https://postfiles.pstatic.net/MjAyMzA4MjRfMjE2/MDAxNjkyODg3NTcwNjg0.uBAF7ILjWC_T26Y9MDEiK4zUi8HPXIocDAMHwG_RkZ4g.h8vY9wIRQVGkAddB-wXp0NoU1FTQgTwS_8gljwpLgVAg.JPEG.dkdnmju/11.jpg?type=w773"> </center> | <center> <img width="130px" height="130px" src =  "https://postfiles.pstatic.net/MjAyMzA4MjRfMTg0/MDAxNjkyODg3NTcwNzEx.DfYFxVeQ2fkxNp3tUSrlxN2YFved1v9un7MHbeSO4AUg.AgGYctYw4QcDft626zRq7FJ8x72cnA37RJXMUbpgEmcg.JPEG.dkdnmju/55.jpg?type=w773"> </center> |
 | <center>[@dpftlel21](https://github.com/dpftlel21) </center>                                                                                                                                                                                               | <center>[@MSbtff](https://github.com/MSbtff)</center>                                                                                                                                                                                                      | <center><small>[@RunnerJinHyeon](https://github.com/RunnerJinHyeon)</small> </center>                                                                                                                                                                      |
 | <center>팀장</center>                                                                                                                                                                                                                                      | <center>FE 팀원</center>                                                                                                                                                                                                                                   | <center>FE 팀원</center>                                                                                                                                                                                                                                   |
-| ㅎㅇ                                                                                                                                                                                                                                                       | ㅎㅇ                                                                                                                                                                                                                                                       | ㅎㅇ                                                                                                                                                                                                                                                       |
+| 1. 노래 검색 및 플리에 노래 추가<br>2. 날씨별 플레이리스트 추천 <br> 3. 플레이리스트 CRUD, 검색, 좋아요<br> 4. 내 플레이리스트 조회<br> 5. MUBTI <br>6. 음악 재생 플레이어                                                                                 | 1. 로그인 <br>2. OAuth 로그인 <br> 3. 아이디, 비밀번호 찾기<br> 4. 회원가입<br> 5. MUBTI <br>6. 음악 재생 플레이어 <br> 7. 메인 구현                                                                                                                       | 1. 마이페이지 <br>2. 게시판 CRUD, 검색, 필터링, 페이지네이션 <br> 3. 댓글, 대댓글<br> 4. MUBTI <br> 5. 음악 재생 플레이어 <br> 6. 메인 구현                                                                                                                |
 
 ### 😀 백엔드
 
@@ -38,15 +44,7 @@ Sound Oasis 는 날씨와 더불어 유저가 처한 상황 (운동, 기분)에 
 | <center> <img width="130px" height="130px" src =  "https://postfiles.pstatic.net/MjAyMzA4MjRfNTMg/MDAxNjkyODg3NTcwNjk5.kwVtZ_IN_3TR26bPNrePcrCZxEqPG1JmsQ7jgVaiOFQg.moYYI6YiJPHn2OxA9ix2hVrN9WK5t4Pzk-AzjulyO0Ig.JPEG.dkdnmju/33.jpg?type=w773"> </center> | <center> <img width="130px" height="130px" src =  "https://postfiles.pstatic.net/MjAyMzA4MjRfMjc1/MDAxNjkyODg3NTcwNjE2.lV76-4SwWJNn3PxKOd8_PAJuTQmKuWYx1vzz5prRknUg.IJzpFSNx96RbTwFGW2A1sUywlHN0S24uUjSebm5-r_sg.JPEG.dkdnmju/44.jpg?type=w773"> </center> | <center> <img width="130px" height="130px" src =  "https://postfiles.pstatic.net/MjAyMzA4MjRfODIg/MDAxNjkyODg3NTcwNzAz.LeEzdgRNx_h28yFqfn9ro0U4PV-ajKW3yIQat-SHv8Eg.KumfmtSpBfebgJQOOqUjpZXvF3jYjNzbUgisEJH8Zhcg.JPEG.dkdnmju/22.jpg?type=w773"> </center> |
 | <center> [@jsue98](https://github.com/jsue98)</center>                                                                                                                                                                                                     | <center>[@occcasion](https://github.com/occcasion)</center>                                                                                                                                                                                                | <center>[@ssklim](https://github.com/ssklim)</center>                                                                                                                                                                                                      |
 | <center>BE 팀장(부팀장)</center>                                                                                                                                                                                                                           | <center>BE 팀원</center>                                                                                                                                                                                                                                   | <center>BE 팀원</center>                                                                                                                                                                                                                                   |
-| ㅎㅇ                                                                                                                                                                                                                                                       | ㅎㅇ                                                                                                                                                                                                                                                       | ㅎㅇ                                                                                                                                                                                                                                                       |
-
-<br>
-
----
-
-## 🖥️ 화면구성
-
-<img src = ""> // gif 파일 추가 예정
+| 1. 로그인 <br>2. OAuth 로그인 <br> 3. 아이디, 비밀번호 찾기<br> 4. 회원가입<br> 5. 마이페이지                                                                                                                                                              | 1. 플레이리스트 CRUD, 검색, 좋아요 <br>2. 날씨별 플레이리스트 추천 <br> 3. 내 플레이리스트 조회<br> 4. 날씨 및 노래 데이터 가져오기<br> 5. 노래 검색 및 플리에 추가 <br> 6. MUBTI                                                                          | 1. 게시판 CRUD, 검색, 필터링, 페이지네이션 <br>2. 댓글, 대댓글                                                                                                                                                                                             |
 
 <br>
 
@@ -54,22 +52,22 @@ Sound Oasis 는 날씨와 더불어 유저가 처한 상황 (운동, 기분)에 
 
 ## ✔️ 주요 기능
 
-### ✨ 기능1
+### ✨ 날씨별 플레이리스트 추천
 
--
--
+날씨에 따라 어울리는 음악들을 선정하여 플레이리스트를 담고 날씨의 변화에 따라 플레이리스트들도 그에 맞게 바뀌게끔 구현했습니다.
 
-### ✨ 기능2
+### ✨ MUBTI
 
--
--
+유저의 상황, 기분, 기타 설문을 통해 그에 맞는 음악들을 선정하여 플레이리스트를 생성하고, 설문 결과에 따라 플레이리스트들도 다 바뀌고, 담당자가 추천해주는 노래, 대표적인 음악 재생관련 유튜버 등 다양한 장르 및 분위기의 플레이리스트들이 존재합니다 !
 
-### ✨ 기능3
+### ✨ 커뮤니케이션 (게시판)
 
--
--
+유저들끼리 자신의 음악 및 플레이리스트를 공유할 수 있는 공간을 제작하여, 자신의 플레이리스트들을 공유하고, 다른 유저들의 플레이리스트를 통해 음악에 대한 가치관 확장 등 활발한 의사소통을 경험하실 수 있습니다.
 
-....
+### ✨ 노래 검색, 노래 추가
+
+스포티파이 api를 통해 노래 데이터를 받아오고, 노래 검색 후 아래 하단 추가 버튼을 통해 자신만의 플레이리스트에 노래를 저장하여 자신만의 플리를 구성할 수 있고, 다른 유저와의 커뮤니케이션을 하는 데 있어서 유용하게 사용할 수 있습니다.
+
 <br>
 
 ---
@@ -87,17 +85,6 @@ Sound Oasis 는 날씨와 더불어 유저가 처한 상황 (운동, 기분)에 
 ### **✔️ 공통**
 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" height="21"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" height="21">
-
----
-
-<br>
-
-## ⚙️ 디렉토리 구조
-
-```
-
-
-```
 
 ---
 
@@ -181,4 +168,4 @@ Sound Oasis 는 날씨와 더불어 유저가 처한 상황 (운동, 기분)에 
 
 ---
 
-**개발기간 : 2023.08.24 ~ ing**
+**개발기간 : 2023.08.24 ~ 2023.09.22**
